@@ -228,8 +228,6 @@ ul {
 .features-list {
   display: flex;
   gap: 24px;
-  height: 112px;
-  align-items: center;
  justify-content: space-between;
 }
 .features-icon-container {
@@ -239,6 +237,11 @@ ul {
 
   padding: 24px 100px;
   margin-bottom: 8px;
+
+  display: flex;
+  height: 112px;
+    align-items: center;
+    justify-content: space-between;
 }
 .features-icon {
  fill: none;
