@@ -333,8 +333,7 @@ width: calc((100% - 72px) / 4);
 }
 
 .name-item-social-icon {
-  fill: none;
-  stroke: #FFFFFF;
+  fill: #FFFFFF;
 }
 
 .portfolio .title {
@@ -481,8 +480,7 @@ margin-bottom: 72px;
   background-color: #31D0AA;
 }
 .social-link-icon {
- fill: none;
- stroke: #FFFFFF;
+ fill: #FFFFFF;
 }
 
 
