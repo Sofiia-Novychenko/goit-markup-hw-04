@@ -240,8 +240,8 @@ ul {
 
   display: flex;
   height: 112px;
-    align-items: center;
-    justify-content: space-between;
+  align-items: center;
+  justify-content: center;
 }
 .features-icon {
  fill: none;
